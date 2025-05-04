@@ -118,12 +118,12 @@ travel-agency-website-revisited/
 │   └── index.html        # Entry HTML file
 │
 ├── server/                # Backend Node.js application
-│   ├── src/
-│   │   ├── config/       # Configuration files
-│   │   ├── controllers/  # Route controllers
-│   │   ├── models/       # Database models
-│   │   ├── routes/       # API routes
-│   │   └── index.js      # Server entry point
+│ 
+│   ├── config/       # Configuration files
+│   ├── controllers/  # Route controllers
+│   ├── models/       # Database models
+│   ├── routes/       # API routes
+│   ├── index.js      # Server entry point
 │   └── package.json      # Backend dependencies
 │
 └── README.md             # Project documentation
