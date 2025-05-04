@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+src/.env
+src/.env.local
+src/.env.*.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Build
+dist/
+
+# Temp files
+*.tmp
+temp/
